@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Sempro BES!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #fce4ec;
+            color: #d81b60;
+            padding: 50px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        .emoji {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SELAMAT SEMINAR PROPOSAL BES! 🎉</h1>
+        <p>Akhirnya setelah sekian purnama sempro juga &gt;.&lt;</p>
+        <p>Semangat revisiannya dan semoga bisa lulus bareng. Aamiin! 🙏</p>
+        <p>Semoga di setiap sujudmu kalau pakai sajadahku pahalanya ngalir ke aku mwehehee! 😆</p>
+        <p>Tak kasih wadah bekal biar bisa ganti-ganti juga :D!</p>
+    </div>
+</body>
+</html>
